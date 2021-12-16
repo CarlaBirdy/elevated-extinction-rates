@@ -1,5 +1,5 @@
 # Elevated extinction rate analysis
-This folder contains the code for the elevated extinction rate analysis based on Ceballos et al. (2015), this analysis was led by Carla Archibald. This code takes data compilled on the described species (Chapman et al. 2009), extinctions numbers (Woinarski et al. 2019) and underlying extinction rates (Barnosky, et al. 2011; Humphreys, et al. 2019), adn output estimates of the elevated extinction rate.
+This folder contains the code for the elevated extinction rate analysis based on Ceballos et al. (2015), this analysis was led by Carla Archibald. This code takes data compiled on the described species (Chapman et al. 2009), extinctions numbers (Woinarski et al. 2019) and underlying extinction rates (Barnosky, et al. 2011; Humphreys, et al. 2019), and output estimates of the elevated extinction rate.
 
 ## Method
 
@@ -11,7 +11,7 @@ To calculate the estimated extinctions (EX) we used the following formula, where
 
 EX = ex / d
 
-This is a simple method to calculate extinction risk that doesn’t consider processes such as speciation, extinction debt or co-extinctions. However, this method does provide an adequate estimate of what the modern-day extinction rates may be in Australia and can be used to inform policy and raise awareness to the extinction crisis in Australia. 
+This is a simple method to calculate extinction risk that doesn’t consider processes such as speciation, extinction debt or co-extinctions. However, this method does provide an adequate estimate of what the modern-day extinction rates may be in Australia and can be used to inform policy and raise awareness of the extinction crisis in Australia. 
 
 
 ## Key references
@@ -23,4 +23,4 @@ Chapman, A. et al. (2009) Numbers of Living Species in Australia and the World. 
 
 Humphreys, A. et al. (2019) ‘Global dataset shows geography and life form predict modern plant extinction and rediscovery’, Nature Ecology and Evolution. Springer US, 3(7), pp. 1043–1047. doi: 10.1038/s41559-019-0906-2.
 
-Woinarski, J. et al. (2019) ‘Reading the black book: The number, timing, distribution and causes of listed extinctions in Australia’, Biological Conservation. Elsevier, 239(November), p. 108261. doi: 10.1016/j.biocon.2019.108261.
+Woinarski, J. et al. (2019) ‘Reading the black book: The number, timing, distribution and causes of listed extinctions in Australia’, Biological Conservation. Elsevier, 239, p. 108261. doi: 10.1016/j.biocon.2019.108261.
