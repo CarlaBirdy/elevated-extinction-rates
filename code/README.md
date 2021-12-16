@@ -1,5 +1,5 @@
 # Elevated extinction rate analysis
-This folder contains the code for the elevated extinction rate analysis based on Ceballos et al. (2015), this analysis was led by Carla Archibald. This code takes data compilled on the described species (Chapman et al. 2009), extinctions numbers (Woinarski et al. 2019) and underlying extinction rates (Barnosky, et al. 2011; Humphreys, et al. 2019).
+This folder contains the code for the elevated extinction rate analysis based on Ceballos et al. (2015), this analysis was led by Carla Archibald. This code takes data compilled on the described species (Chapman et al. 2009), extinctions numbers (Woinarski et al. 2019) and underlying extinction rates (Barnosky, et al. 2011; Humphreys, et al. 2019), adn output estimates of the elevated extinction rate.
 
 ## Method
 
