@@ -1,7 +1,7 @@
 # Elevated extinction rate analysis
 This folder contains the code for the elevated extinction rate analysis based on Ceballos et al. (2015), this analysis was led by Carla Archibald. This code takes data compilled on the described species (Chapman et al. 2009), extinctions numbers (Woinarski et al. 2019) and underlying extinction rates (Barnosky, et al. 2011; Humphreys, et al. 2019).
 
-## Methid
+## Method
 
 To calculate the expected number of extinct species (ex) we used the following formula where n is equal to the number of described species, r is the background extinction rate (of 0.35 E/MSY or 2 E/MSY), and c is equal to the number of centuries since 1900 (you can also change this year to 1500).
 
