@@ -1,57 +1,57 @@
-Scale,Taxonomic group,Described species,Background extinction estimate,"Background extinction per century expected for 10,000 species",Extinction estimate,Documented extinctions
-Australia,Amphibians,227,Low,0.10,Conservative,19
-Australia,Amphibians,227,Low,0.10,Highly Conservative,4
-Global,Amphibians,6414,Low,0.10,Conservative,146
-Global,Amphibians,6414,Low,0.10,Highly Conservative,32
-Australia,Birds,828,Low,0.10,Conservative,26
-Australia,Birds,828,Low,0.10,Highly Conservative,9
-Global,Birds,10425,Low,0.10,Conservative,80
-Global,Birds,10425,Low,0.10,Highly Conservative,57
-Australia,Fishes,5750,Low,0.10,Conservative,9
-Australia,Fishes,5750,Low,0.10,Highly Conservative,1
-Global,Fishes,12457,Low,0.10,Conservative,158
-Global,Fishes,12457,Low,0.10,Highly Conservative,66
-Australia,Mammals,386,Low,0.10,Conservative,43
-Australia,Mammals,386,Low,0.10,Highly Conservative,34
-Global,Mammals,5513,Low,0.10,Conservative,69
-Global,Mammals,5513,Low,0.10,Highly Conservative,35
-Australia,Plants,28000,Low,0.05,Conservative,244
-Australia,Plants,28000,Low,0.05,Highly Conservative,38
-Global,Plants,204793,Low,0.05,Highly Conservative,315
-Global,Plants,204793,Low,0.05,Conservative,315
-Australia,Reptiles,917,Low,0.10,Conservative,39
-Australia,Reptiles,917,Low,0.10,Highly Conservative,3
-Global,Reptiles,4414,Low,0.10,Highly Conservative,8
-Global,Reptiles,4414,Low,0.10,Conservative,24
-Australia,Vertebrates,8108,Low,0.10,Conservative,136
-Australia,Vertebrates,8108,Low,0.10,Highly Conservative,51
-Global,Vertebrates,39223,Low,0.10,Highly Conservative,198
-Global,Vertebrates,39223,Low,0.10,Conservative,477
-Australia,Amphibians,227,High,2.00,Conservative,19
-Global,Amphibians,6414,High,2.00,Conservative,146
-Australia,Amphibians,227,High,2.00,Highly Conservative,4
-Global,Amphibians,6414,High,2.00,Highly Conservative,32
-Australia,Birds,828,High,2.00,Conservative,26
-Australia,Birds,828,High,2.00,Highly Conservative,9
-Global,Birds,10425,High,2.00,Conservative,80
-Global,Birds,10425,High,2.00,Highly Conservative,57
-Global,Fishes,12457,High,2.00,Conservative,158
-Global,Fishes,12457,High,2.00,Highly Conservative,66
-Australia,Fishes,5750,High,2.00,Conservative,9
-Australia,Fishes,5750,High,2.00,Highly Conservative,1
-Australia,Mammals,386,High,2.00,Conservative,43
-Australia,Mammals,386,High,2.00,Highly Conservative,34
-Global,Mammals,5513,High,2.00,Conservative,69
-Global,Mammals,5513,High,2.00,Highly Conservative,35
-Australia,Plants,28000,High,0.35,Conservative,244
-Global,Plants,204793,High,0.35,Conservative,315
-Global,Plants,204793,High,0.35,Highly Conservative,315
-Australia,Plants,28000,High,0.35,Highly Conservative,38
-Australia,Reptiles,917,High,2.00,Conservative,39
-Global,Reptiles,4414,High,2.00,Conservative,24
-Australia,Reptiles,917,High,2.00,Highly Conservative,3
-Global,Reptiles,4414,High,2.00,Highly Conservative,8
-Australia,Vertebrates,8108,High,2.00,Conservative,136
-Global,Vertebrates,39223,High,2.00,Conservative,477
-Australia,Vertebrates,8108,High,2.00,Highly Conservative,51
-Global,Vertebrates,39223,High,2.00,Highly Conservative,198
+Scale,Taxonomic group,Described species,Background extinction estimate,"Background extinction per century expected for 10,000 species",Extinction estimate,Documented extinctions,Source
+Australia,Amphibians,227,Low,0.1,Conservative,21,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Amphibians,227,High,2,Conservative,21,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Birds,828,Low,0.1,Conservative,39,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Birds,828,High,2,Conservative,39,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Fishes,5750,Low,0.1,Conservative,9,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Fishes,5750,High,2,Conservative,9,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Mammals,386,Low,0.1,Conservative,48,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Mammals,386,High,2,Conservative,48,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Plants,28000,Low,0.05,Conservative,257,SPRAT: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=flora
+Australia,Plants,28000,High,0.35,Conservative,257,SPRAT: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=flora
+Australia,Reptiles,917,Low,0.1,Conservative,21,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Reptiles,917,High,2,Conservative,21,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Vertebrates,8108,Low,0.1,Conservative,127,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Vertebrates,8108,High,2,Conservative,127,"Chapman et al., (2009); SPRAT database: http://www.environment.gov.au/cgi-bin/sprat/public/publicthreatenedlist.pl?wanted=fauna"
+Australia,Amphibians,227,Low,0.1,Highly Conservative,4,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Birds,828,Low,0.1,Highly Conservative,9,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Fishes,5750,Low,0.1,Highly Conservative,1,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Mammals,386,Low,0.1,Highly Conservative,34,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Plants,28000,Low,0.05,Highly Conservative,38,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Reptiles,917,Low,0.1,Highly Conservative,3,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Vertebrates,8108,Low,0.1,Highly Conservative,51,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Amphibians,227,High,2,Highly Conservative,4,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Birds,828,High,2,Highly Conservative,9,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Fishes,5750,High,2,Highly Conservative,1,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Mammals,386,High,2,Highly Conservative,34,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Plants,28000,High,0.35,Highly Conservative,38,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Reptiles,917,High,2,Highly Conservative,3,"Chapman et al., (2009); Woinarski et al., (2019)"
+Australia,Vertebrates,8108,High,2,Highly Conservative,51,"Chapman et al., (2009); Woinarski et al., (2019)"
+Global,Amphibians,6414,Low,0.1,Conservative,146,Ceballos et al. (2015)
+Global,Amphibians,6414,High,2,Conservative,146,Ceballos et al. (2015)
+Global,Amphibians,6414,Low,0.1,Highly Conservative,32,Ceballos et al. (2015)
+Global,Amphibians,6414,High,2,Highly Conservative,32,Ceballos et al. (2015)
+Global,Birds,10425,Low,0.1,Conservative,80,Ceballos et al. (2015)
+Global,Birds,10425,High,2,Conservative,80,Ceballos et al. (2015)
+Global,Birds,10425,Low,0.1,Highly Conservative,57,Ceballos et al. (2015)
+Global,Birds,10425,High,2,Highly Conservative,57,Ceballos et al. (2015)
+Global,Fishes,12457,Low,0.1,Conservative,158,Ceballos et al. (2015)
+Global,Fishes,12457,High,2,Conservative,158,Ceballos et al. (2015)
+Global,Fishes,12457,Low,0.1,Highly Conservative,66,Ceballos et al. (2015)
+Global,Fishes,12457,High,2,Highly Conservative,66,Ceballos et al. (2015)
+Global,Mammals,5513,Low,0.1,Conservative,69,Ceballos et al. (2015)
+Global,Mammals,5513,High,2,Conservative,69,Ceballos et al. (2015)
+Global,Mammals,5513,Low,0.1,Highly Conservative,35,Ceballos et al. (2015)
+Global,Mammals,5513,High,2,Highly Conservative,35,Ceballos et al. (2015)
+Global,Plants,204793,Low,0.05,Conservative,315,Humphreys et al. (2019)
+Global,Plants,204793,High,0.35,Conservative,315,Humphreys et al. (2019)
+Global,Plants,204793,Low,0.05,Highly Conservative,315,Humphreys et al. (2019)
+Global,Plants,204793,High,0.35,Highly Conservative,315,Humphreys et al. (2019)
+Global,Reptiles,4414,Low,0.1,Conservative,24,Ceballos et al. (2015)
+Global,Reptiles,4414,High,2,Conservative,24,Ceballos et al. (2015)
+Global,Reptiles,4414,Low,0.1,Highly Conservative,8,Ceballos et al. (2015)
+Global,Reptiles,4414,High,2,Highly Conservative,8,Ceballos et al. (2015)
+Global,Vertebrates,39223,Low,0.1,Conservative,477,Ceballos et al. (2015)
+Global,Vertebrates,39223,High,2,Conservative,477,Ceballos et al. (2015)
+Global,Vertebrates,39223,Low,0.1,Highly Conservative,198,Ceballos et al. (2015)
+Global,Vertebrates,39223,High,2,Highly Conservative,198,Ceballos et al. (2015)
