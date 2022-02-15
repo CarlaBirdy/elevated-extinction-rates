@@ -24,13 +24,12 @@ year <- 1900 # can also use 1500
 
 # computes elevated extinction rates, as per Ceballos, G. et al. (2015)
 data_out <- data_in %>%
+              dplyr::select(-`Source`) %>%       
               dplyr::mutate("Described.Species.divided.by.10000" = as.numeric(Described.species)/10000)%>% 
               dplyr::mutate("Centuries.Since.1900" = (2021-1900)/100)%>%  
               dplyr::mutate("Background.extinction.expected.since.1900" = Centuries.Since.1900*Background.extinction.per.century.expected.for.10.000.species)%>% 
-              dplyr::mutate("Expected.extinctions.between.1900.to.present" = Described.Species.divided.by.10000*Background.extinction.expected.since.1900)%>% 
-              dplyr::mutate("Elevated.extinction.rate.with.respect.to.expected" = Documented.extinctions/Expected.extinctions.between.1900.to.present)%>% 
-              dplyr::mutate("Approximated.Modern-day.extinction.rate.E/MSY" = ((10000/Described.species)*Documented.extinctions)/Centuries.Since.1900) 
-  
+              dplyr::mutate("Expected.extinctions.between.1900.to.2021" = Described.Species.divided.by.10000*Background.extinction.expected.since.1900)%>% 
+              dplyr::mutate("Elevated.extinction.rate.with.respect.to.expected" = Documented.extinctions/Expected.extinctions.between.1900.to.2021)
 # write out files
 write.csv(data_out, file=paste0(wd, "elevated-extinction-rates/data/extinction-rate-output-data.csv"),row.names=FALSE)
   

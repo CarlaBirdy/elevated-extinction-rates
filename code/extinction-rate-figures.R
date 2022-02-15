@@ -49,7 +49,7 @@ extinction_stats_high <- data_in %>%
                           theme_bw()
 
 extinction_stats_high
-ggsave("extinction_stats_high.png") 
+ggsave(paste0(wd,"extinction_stats_high.png")) 
 
 extinction_stats_low <- data_in %>%
                           dplyr::filter(Background.extinction.estimate %in% c("Low"))%>%
@@ -81,6 +81,7 @@ ggsave("extinction_stats_low.png")
 extinction_rates_high <- data_in %>%
                           dplyr::filter(Background.extinction.estimate %in% c("High"))%>%
                           dplyr::select(Scale, Taxonomic.group, Extinction.estimate, Elevated.extinction.rate.with.respect.to.expected) %>%
+                          dplyr::filter(Taxonomic.group %in% c("Mammals", "Amphibians","Plants","Birds","Reptiles","Fishes")) %>%
                           ggplot(.)+
                             geom_col(aes(x=reorder(Taxonomic.group, -Elevated.extinction.rate.with.respect.to.expected), y=Elevated.extinction.rate.with.respect.to.expected,fill=`Scale`), position ="dodge")+
                             labs(x = "Taxonomic group",
@@ -91,14 +92,14 @@ extinction_rates_high <- data_in %>%
                             theme(legend.title = element_blank(),
                                   legend.position=c(.85,.9))+
                             geom_hline(yintercept = 1, color="black", linetype="dashed", size =1.5)
-
 extinction_rates_high
-ggsave("extinction_rates_high.png") 
+ggsave(paste0(wd,"extinction_rates_high.png")) 
 
 extinction_rates_low <- data_in %>%
                           dplyr::filter(Background.extinction.estimate %in% c("Low"))%>%
                           dplyr::select(Scale, Taxonomic.group, Extinction.estimate, Elevated.extinction.rate.with.respect.to.expected) %>%
-                          ggplot(.)+
+  dplyr::filter(Taxonomic.group %in% c("Mammals", "Amphibians","Plants","Birds","Reptiles","Fishes")) %>%
+   ggplot(.)+
                             geom_col(aes(x=reorder(Taxonomic.group, -Elevated.extinction.rate.with.respect.to.expected), y=Elevated.extinction.rate.with.respect.to.expected,fill=`Scale`), position ="dodge")+
                             labs(x = "Taxonomic group",
                                  y = "Moden-day extinction rate (E/MSY)")+
