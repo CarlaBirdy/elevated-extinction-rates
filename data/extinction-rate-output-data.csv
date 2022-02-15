@@ -1,57 +1,69 @@
-"Scale","Taxonomic.group","Described.species","Background.extinction.estimate","Background.extinction.per.century.expected.for.10.000.species","Extinction.estimate","Documented.extinctions","Described.Species.divided.by.10000","Centuries.Since.1900","Background.extinction.expected.since.1900","Expected.extinctions.between.1900.to.present","Elevated.extinction.rate.with.respect.to.expected","Approximated.Modern-day.extinction.rate.E/MSY"
-"Australia","Amphibians",227,"Low",0.1,"Conservative",19,0.0227,1.21,0.121,0.0027467,6917.39177922598,691.739177922598
-"Australia","Amphibians",227,"Low",0.1,"Highly Conservative",4,0.0227,1.21,0.121,0.0027467,1456.29300615284,145.629300615284
-"Global","Amphibians",6414,"Low",0.1,"Conservative",146,0.6414,1.21,0.121,0.0776094,1881.21541978162,188.121541978162
-"Global","Amphibians",6414,"Low",0.1,"Highly Conservative",32,0.6414,1.21,0.121,0.0776094,412.321187897342,41.2321187897342
-"Australia","Birds",828,"Low",0.1,"Conservative",26,0.0828,1.21,0.121,0.0100188,2595.12117219627,259.512117219627
-"Australia","Birds",828,"Low",0.1,"Highly Conservative",9,0.0828,1.21,0.121,0.0100188,898.311174991017,89.8311174991017
-"Global","Birds",10425,"Low",0.1,"Conservative",80,1.0425,1.21,0.121,0.1261425,634.203381096776,63.4203381096776
-"Global","Birds",10425,"Low",0.1,"Highly Conservative",57,1.0425,1.21,0.121,0.1261425,451.869909031453,45.1869909031453
-"Australia","Fishes",5750,"Low",0.1,"Conservative",9,0.575,1.21,0.121,0.069575,129.356809198706,12.9356809198706
-"Australia","Fishes",5750,"Low",0.1,"Highly Conservative",1,0.575,1.21,0.121,0.069575,14.3729787998563,1.43729787998563
-"Global","Fishes",12457,"Low",0.1,"Conservative",158,1.2457,1.21,0.121,0.1507297,1048.23402421686,104.823402421686
-"Global","Fishes",12457,"Low",0.1,"Highly Conservative",66,1.2457,1.21,0.121,0.1507297,437.869908850081,43.7869908850081
-"Australia","Mammals",386,"Low",0.1,"Conservative",43,0.0386,1.21,0.121,0.0046706,9206.52592814627,920.652592814628
-"Australia","Mammals",386,"Low",0.1,"Highly Conservative",34,0.0386,1.21,0.121,0.0046706,7279.57864085985,727.957864085985
-"Global","Mammals",5513,"Low",0.1,"Conservative",69,0.5513,1.21,0.121,0.0667073,1034.3695517582,103.43695517582
-"Global","Mammals",5513,"Low",0.1,"Highly Conservative",35,0.5513,1.21,0.121,0.0667073,524.680207413581,52.4680207413581
-"Australia","Plants",28000,"Low",0.05,"Conservative",244,2.8,1.21,0.0605,0.1694,1440.37780401417,72.0188902007084
-"Australia","Plants",28000,"Low",0.05,"Highly Conservative",38,2.8,1.21,0.0605,0.1694,224.321133412043,11.2160566706021
-"Global","Plants",204793,"Low",0.05,"Highly Conservative",315,20.4793,1.21,0.0605,1.23899765,254.237770346054,12.7118885173027
-"Global","Plants",204793,"Low",0.05,"Conservative",315,20.4793,1.21,0.0605,1.23899765,254.237770346054,12.7118885173027
-"Australia","Reptiles",917,"Low",0.1,"Conservative",39,0.0917,1.21,0.121,0.0110957,3514.87513180782,351.487513180782
-"Australia","Reptiles",917,"Low",0.1,"Highly Conservative",3,0.0917,1.21,0.121,0.0110957,270.375010139063,27.0375010139063
-"Global","Reptiles",4414,"Low",0.1,"Highly Conservative",8,0.4414,1.21,0.121,0.0534094,149.78636719379,14.978636719379
-"Global","Reptiles",4414,"Low",0.1,"Conservative",24,0.4414,1.21,0.121,0.0534094,449.35910158137,44.935910158137
-"Australia","Vertebrates",8108,"Low",0.1,"Conservative",136,0.8108,1.21,0.121,0.0981068,1386.24437857519,138.624437857519
-"Australia","Vertebrates",8108,"Low",0.1,"Highly Conservative",51,0.8108,1.21,0.121,0.0981068,519.841641965695,51.9841641965695
-"Global","Vertebrates",39223,"Low",0.1,"Highly Conservative",198,3.9223,1.21,0.121,0.4745983,417.194920420069,41.7194920420069
-"Global","Vertebrates",39223,"Low",0.1,"Conservative",477,3.9223,1.21,0.121,0.4745983,1005.06049010289,100.506049010289
-"Australia","Amphibians",227,"High",2,"Conservative",19,0.0227,1.21,2.42,0.054934,345.869588961299,691.739177922598
-"Global","Amphibians",6414,"High",2,"Conservative",146,0.6414,1.21,2.42,1.552188,94.0607709890812,188.121541978162
-"Australia","Amphibians",227,"High",2,"Highly Conservative",4,0.0227,1.21,2.42,0.054934,72.8146503076419,145.629300615284
-"Global","Amphibians",6414,"High",2,"Highly Conservative",32,0.6414,1.21,2.42,1.552188,20.6160593948671,41.2321187897342
-"Australia","Birds",828,"High",2,"Conservative",26,0.0828,1.21,2.42,0.200376,129.756058609814,259.512117219627
-"Australia","Birds",828,"High",2,"Highly Conservative",9,0.0828,1.21,2.42,0.200376,44.9155587495508,89.8311174991017
-"Global","Birds",10425,"High",2,"Conservative",80,1.0425,1.21,2.42,2.52285,31.7101690548388,63.4203381096776
-"Global","Birds",10425,"High",2,"Highly Conservative",57,1.0425,1.21,2.42,2.52285,22.5934954515726,45.1869909031453
-"Global","Fishes",12457,"High",2,"Conservative",158,1.2457,1.21,2.42,3.014594,52.411701210843,104.823402421686
-"Global","Fishes",12457,"High",2,"Highly Conservative",66,1.2457,1.21,2.42,3.014594,21.893495442504,43.7869908850081
-"Australia","Fishes",5750,"High",2,"Conservative",9,0.575,1.21,2.42,1.3915,6.46784045993532,12.9356809198706
-"Australia","Fishes",5750,"High",2,"Highly Conservative",1,0.575,1.21,2.42,1.3915,0.718648939992814,1.43729787998563
-"Australia","Mammals",386,"High",2,"Conservative",43,0.0386,1.21,2.42,0.093412,460.326296407314,920.652592814628
-"Australia","Mammals",386,"High",2,"Highly Conservative",34,0.0386,1.21,2.42,0.093412,363.978932042992,727.957864085985
-"Global","Mammals",5513,"High",2,"Conservative",69,0.5513,1.21,2.42,1.334146,51.7184775879102,103.43695517582
-"Global","Mammals",5513,"High",2,"Highly Conservative",35,0.5513,1.21,2.42,1.334146,26.2340103706791,52.4680207413581
-"Australia","Plants",28000,"High",0.35,"Conservative",244,2.8,1.21,0.4235,1.1858,205.76825771631,72.0188902007084
-"Global","Plants",204793,"High",0.35,"Conservative",315,20.4793,1.21,0.4235,8.67298355,36.3196814780076,12.7118885173027
-"Global","Plants",204793,"High",0.35,"Highly Conservative",315,20.4793,1.21,0.4235,8.67298355,36.3196814780076,12.7118885173027
-"Australia","Plants",28000,"High",0.35,"Highly Conservative",38,2.8,1.21,0.4235,1.1858,32.0458762017204,11.2160566706021
-"Australia","Reptiles",917,"High",2,"Conservative",39,0.0917,1.21,2.42,0.221914,175.743756590391,351.487513180782
-"Global","Reptiles",4414,"High",2,"Conservative",24,0.4414,1.21,2.42,1.068188,22.4679550790685,44.935910158137
-"Australia","Reptiles",917,"High",2,"Highly Conservative",3,0.0917,1.21,2.42,0.221914,13.5187505069531,27.0375010139063
-"Global","Reptiles",4414,"High",2,"Highly Conservative",8,0.4414,1.21,2.42,1.068188,7.48931835968949,14.978636719379
-"Australia","Vertebrates",8108,"High",2,"Conservative",136,0.8108,1.21,2.42,1.962136,69.3122189287593,138.624437857519
-"Global","Vertebrates",39223,"High",2,"Conservative",477,3.9223,1.21,2.42,9.491966,50.2530245051447,100.506049010289
-"Australia","Vertebrates",8108,"High",2,"Highly Conservative",51,0.8108,1.21,2.42,1.962136,25.9920820982847,51.9841641965695
-"Global","Vertebrates",39223,"High",2,"Highly Conservative",198,3.9223,1.21,2.42,9.491966,20.8597460210034,41.7194920420069
+"Scale","Taxonomic.group","Described.species","Background.extinction.estimate","Background.extinction.per.century.expected.for.10.000.species","Extinction.estimate","Documented.extinctions","Described.Species.divided.by.10000","Centuries.Since.1900","Background.extinction.expected.since.1900","Expected.extinctions.between.1900.to.2021","Elevated.extinction.rate.with.respect.to.expected"
+"Australia","Amphibians",227,"Low",0.1,"Conservative",21,0.0227,1.21,0.121,0.0027467,7645.5382823024
+"Australia","Amphibians",227,"High",2,"Conservative",21,0.0227,1.21,2.42,0.054934,382.27691411512
+"Australia","Amphibians",227,"Low",0.1,"Highly Conservative",4,0.0227,1.21,0.121,0.0027467,1456.29300615284
+"Australia","Amphibians",227,"High",2,"Highly Conservative",4,0.0227,1.21,2.42,0.054934,72.8146503076419
+"Global","Amphibians",6414,"Low",0.1,"Conservative",146,0.6414,1.21,0.121,0.0776094,1881.21541978162
+"Global","Amphibians",6414,"High",2,"Conservative",146,0.6414,1.21,2.42,1.552188,94.0607709890812
+"Global","Amphibians",6414,"Low",0.1,"Highly Conservative",32,0.6414,1.21,0.121,0.0776094,412.321187897342
+"Global","Amphibians",6414,"High",2,"Highly Conservative",32,0.6414,1.21,2.42,1.552188,20.6160593948671
+"Australia","Birds",828,"Low",0.1,"Conservative",39,0.0828,1.21,0.121,0.0100188,3892.68175829441
+"Australia","Birds",828,"High",2,"Conservative",39,0.0828,1.21,2.42,0.200376,194.63408791472
+"Australia","Birds",828,"Low",0.1,"Highly Conservative",9,0.0828,1.21,0.121,0.0100188,898.311174991017
+"Australia","Birds",828,"High",2,"Highly Conservative",9,0.0828,1.21,2.42,0.200376,44.9155587495508
+"Global","Birds",10425,"Low",0.1,"Conservative",80,1.0425,1.21,0.121,0.1261425,634.203381096776
+"Global","Birds",10425,"High",2,"Conservative",80,1.0425,1.21,2.42,2.52285,31.7101690548388
+"Global","Birds",10425,"Low",0.1,"Highly Conservative",57,1.0425,1.21,0.121,0.1261425,451.869909031453
+"Global","Birds",10425,"High",2,"Highly Conservative",57,1.0425,1.21,2.42,2.52285,22.5934954515726
+"Australia","Freshwater Fishes",349,"Low",0.1,"Conservative",6,0.0349,1.21,0.121,0.0042229,1420.82455184826
+"Australia","Freshwater Fishes",349,"High",2,"Conservative",6,0.0349,1.21,2.42,0.084458,71.0412275924128
+"Australia","Freshwater Fishes",349,"Low",0.1,"Highly Conservative",1,0.0349,1.21,0.121,0.0042229,236.804091974709
+"Australia","Freshwater Fishes",349,"High",2,"Highly Conservative",1,0.0349,1.21,2.42,0.084458,11.8402045987355
+"Global","Freshwater Fishes (assessed)",10516,"Low",0.1,"Conservative",673,1.0516,1.21,0.121,0.1272436,5289.06758375274
+"Global","Freshwater Fishes (assessed)",10516,"High",2,"Conservative",673,1.0516,1.21,2.42,2.544872,264.453379187637
+"Global","Freshwater Fishes (assessed)",10516,"Low",0.1,"Highly Conservative",90,1.0516,1.21,0.121,0.1272436,707.304728882238
+"Global","Freshwater Fishes (assessed)",10516,"High",2,"Highly Conservative",90,1.0516,1.21,2.42,2.544872,35.3652364441119
+"Global","Freshwater Fishes (all)",18000,"Low",0.1,"Conservative",673,1.8,1.21,0.121,0.2178,3089.99081726354
+"Global","Freshwater Fishes (all)",18000,"High",2,"Conservative",673,1.8,1.21,2.42,4.356,154.499540863177
+"Global","Freshwater Fishes (all)",18000,"Low",0.1,"Highly Conservative",90,1.8,1.21,0.121,0.2178,413.223140495868
+"Global","Freshwater Fishes (all)",18000,"High",2,"Highly Conservative",90,1.8,1.21,2.42,4.356,20.6611570247934
+"Australia","Mammals",386,"Low",0.1,"Conservative",48,0.0386,1.21,0.121,0.0046706,10277.052198861
+"Australia","Mammals",386,"High",2,"Conservative",48,0.0386,1.21,2.42,0.093412,513.852609943048
+"Australia","Mammals",386,"Low",0.1,"Highly Conservative",34,0.0386,1.21,0.121,0.0046706,7279.57864085985
+"Australia","Mammals",386,"High",2,"Highly Conservative",34,0.0386,1.21,2.42,0.093412,363.978932042992
+"Global","Mammals",5513,"Low",0.1,"Conservative",69,0.5513,1.21,0.121,0.0667073,1034.3695517582
+"Global","Mammals",5513,"High",2,"Conservative",69,0.5513,1.21,2.42,1.334146,51.7184775879102
+"Global","Mammals",5513,"Low",0.1,"Highly Conservative",35,0.5513,1.21,0.121,0.0667073,524.680207413581
+"Global","Mammals",5513,"High",2,"Highly Conservative",35,0.5513,1.21,2.42,1.334146,26.2340103706791
+"Australia","Plants",28000,"Low",0.05,"Conservative",257,2.8,1.21,0.0605,0.1694,1517.11924439197
+"Australia","Plants",28000,"High",0.35,"Conservative",257,2.8,1.21,0.4235,1.1858,216.731320627425
+"Australia","Plants",28000,"Low",0.05,"Highly Conservative",38,2.8,1.21,0.0605,0.1694,224.321133412043
+"Australia","Plants",28000,"High",0.35,"Highly Conservative",38,2.8,1.21,0.4235,1.1858,32.0458762017204
+"Global","Plants",204793,"Low",0.05,"Conservative",315,20.4793,1.21,0.0605,1.23899765,254.237770346054
+"Global","Plants",204793,"High",0.35,"Conservative",315,20.4793,1.21,0.4235,8.67298355,36.3196814780076
+"Global","Plants",204793,"Low",0.05,"Highly Conservative",315,20.4793,1.21,0.0605,1.23899765,254.237770346054
+"Global","Plants",204793,"High",0.35,"Highly Conservative",315,20.4793,1.21,0.4235,8.67298355,36.3196814780076
+"Australia","Reptiles",917,"Low",0.1,"Conservative",21,0.0917,1.21,0.121,0.0110957,1892.62507097344
+"Australia","Reptiles",917,"High",2,"Conservative",21,0.0917,1.21,2.42,0.221914,94.631253548672
+"Australia","Reptiles",917,"Low",0.1,"Highly Conservative",3,0.0917,1.21,0.121,0.0110957,270.375010139063
+"Australia","Reptiles",917,"High",2,"Highly Conservative",3,0.0917,1.21,2.42,0.221914,13.5187505069531
+"Global","Reptiles",4414,"Low",0.1,"Conservative",24,0.4414,1.21,0.121,0.0534094,449.35910158137
+"Global","Reptiles",4414,"High",2,"Conservative",24,0.4414,1.21,2.42,1.068188,22.4679550790685
+"Global","Reptiles",4414,"Low",0.1,"Highly Conservative",8,0.4414,1.21,0.121,0.0534094,149.78636719379
+"Global","Reptiles",4414,"High",2,"Highly Conservative",8,0.4414,1.21,2.42,1.068188,7.48931835968949
+"Global","Terrestrial Vertebrates",26766,"Low",0.1,"Conservative",319,2.6766,1.21,0.121,0.3238686,984.967360219546
+"Global","Terrestrial Vertebrates",26766,"High",2,"Conservative",319,2.6766,1.21,2.42,6.477372,49.2483680109773
+"Global","Terrestrial Vertebrates",26766,"Low",0.1,"Highly Conservative",123,2.6766,1.21,0.121,0.3238686,379.783653000013
+"Global","Terrestrial Vertebrates",26766,"High",2,"Highly Conservative",123,2.6766,1.21,2.42,6.477372,18.9891826500007
+"Australia","Terrestrial Vertebrates",2358,"Low",0.1,"Conservative",118,0.2358,1.21,0.121,0.0285318,4135.73626620122
+"Australia","Terrestrial Vertebrates",2358,"High",2,"Conservative",118,0.2358,1.21,2.42,0.570636,206.786813310061
+"Australia","Terrestrial Vertebrates",2358,"Low",0.1,"Highly Conservative",50,0.2358,1.21,0.121,0.0285318,1752.4306212717
+"Australia","Terrestrial Vertebrates",2358,"High",2,"Highly Conservative",50,0.2358,1.21,2.42,0.570636,87.6215310635852
+"Australia","Vertebrates",8108,"Low",0.1,"Conservative",127,0.8108,1.21,0.121,0.0981068,1294.5076182283
+"Australia","Vertebrates",8108,"High",2,"Conservative",127,0.8108,1.21,2.42,1.962136,64.7253809114149
+"Global","Vertebrates",39223,"Low",0.1,"Conservative",477,3.9223,1.21,0.121,0.4745983,1005.06049010289
+"Global","Vertebrates",39223,"High",2,"Conservative",477,3.9223,1.21,2.42,9.491966,50.2530245051447
+"Global","Vertebrates",39223,"Low",0.1,"Highly Conservative",198,3.9223,1.21,0.121,0.4745983,417.194920420069
+"Global","Vertebrates",39223,"High",2,"Highly Conservative",198,3.9223,1.21,2.42,9.491966,20.8597460210034
+"Australia","Vertebrates",8108,"Low",0.1,"Highly Conservative",51,0.8108,1.21,0.121,0.0981068,519.841641965695
+"Australia","Vertebrates",8108,"High",2,"Highly Conservative",51,0.8108,1.21,2.42,1.962136,25.9920820982847
